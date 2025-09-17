@@ -1,4 +1,4 @@
-        //const URL = "https://openlibrary.org/search.json?q=${query}";
+         //const URL = "https://openlibrary.org/search.json?q=${query}";
 // const searchBooks = async()=>{
 //     const query = document.querySelector("#search").value;
 //     const res = await fetch(`https://openlibrary.org/search.json?q=${query}`);
