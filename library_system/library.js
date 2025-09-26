@@ -1,4 +1,4 @@
-          
+           
 
     const query = document.querySelector("#search").value;
     const res = await fetch(`https://openlibrary.org/search.json?q=${query}`);
